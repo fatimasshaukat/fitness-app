@@ -17,11 +17,11 @@ A responsive, **single-page fitness planning app** built with **React**. Users c
 ## 🖼️ Screenshots
 
 ### Dashboard View
-<img src="./screenshots/m1.png" width="100%" alt="Dashboard View" />
+<img src="..src/screenshots/m1.png" width="100%" alt="Dashboard View" />
 
 ### Add Workout Form
-<img src="./screenshots/m2.png" width="100%" alt="Add Workout Form" />
-<img src="./screenshots/m4.png" width="100%" alt="Workout List" />
+<img src="./src/screenshots/m2.png" width="100%" alt="Add Workout Form" />
+<img src="./src/screenshots/m4.png" width="100%" alt="Workout List" />
 
 
 
